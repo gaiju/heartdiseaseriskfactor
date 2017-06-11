@@ -1,0 +1,20 @@
+---
+title: "Meditation for you"
+author: "RladyBaltimore"
+date: 2017-06-11T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+Meditation helps to improve one's health. So if you are a passionate coder, you might have suffered of back and neck pains.
+This article is very interesting and I would like to share with you.
+
+https://www.wsj.com/articles/SB10001424127887324345804578424863782143682
+
+If you want to do meditation, I might able to help you~
